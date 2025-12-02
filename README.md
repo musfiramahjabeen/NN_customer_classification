@@ -48,9 +48,6 @@ You are required to help the manager to predict the right group of the new custo
 
 ## PROGRAM
 
-### Name: Abdur Rahman Basil A H
-### Register Number: 212223040002
-
 ```python
 class PeopleClassifier(nn.Module):
     def __init__(self, input_size):
